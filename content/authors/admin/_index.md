@@ -62,4 +62,4 @@ email: "jmed7@umd.edu"
 # - Visitors
 ---
 
-I am interested in individual differences in numerical cognition. At the moment, I am looking at how executive functions are linked to mathematical learning.
+I am interested in individual differences in numerical cognition. My first year project looks at the relations between inhibitory control, mathematical knowledge components, and performance on problems that require knowledge of order of operations. I am also a part of a bigger project that looks at executive functions and math learning, and another project that looks at air pollution and cognitive development.
