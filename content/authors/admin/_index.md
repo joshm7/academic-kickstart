@@ -61,3 +61,5 @@ email: "jmed7@umd.edu"
 # - Researchers
 # - Visitors
 ---
+
+I am interested in individual differences in numerical cognition. At the moment, I am looking at how executive functions are linked to mathematical learning.
